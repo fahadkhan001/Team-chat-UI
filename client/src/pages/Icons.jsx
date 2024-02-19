@@ -14,7 +14,7 @@ import { RiShutDownLine } from "react-icons/ri";
 const Icons = () => {
   return (
     <>
-    <div className='flex flex-col justify-between   min-w-[20vh] h-[115vh]'>
+    <div className='flex flex-col justify-between   min-w-[15vh] h-[115vh]'>
     
            <div className='flex flex-col justify-between gap-24'>
             <BsFire className=' text-orange-500 s w-[34.36px] h-[34.36px] mt-[40px] ml-[32px] ' />
