@@ -226,7 +226,7 @@ const Chat = () => {
                     <p className=' flex justify-center'>Today</p>
 
                     <div className='flex gap-3 p-3'>
-                        <img className='rounded-full    border-green-300 h-[56px] w-[56px] object-cover ' src={person12} alt='logo' />
+                        <img className='rounded-full   border-green-300 h-[56px] w-[56px] object-cover ' src={person12} alt='logo' />
                         <div className='flex flex-col items-start gap-2'>
                             <p className='font-bold'>Lorel morph <span className='text-royal-bp text-[10px] '>09:20am</span></p>
                             <p className='rounded-lg flex flex-col font-semibold bg-royal-green p-3 text-[10px]'><span>Appologise guys i will not be able to contribute in </span><span>presentation as i am having fever since 2 days.</span></p>
