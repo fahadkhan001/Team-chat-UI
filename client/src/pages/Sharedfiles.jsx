@@ -36,7 +36,7 @@ const Sharedfiles = () => {
           <p className='w-[100%] h-[1px] bg-white border mr-auto ml-auto   shadow-lg shadow-royal-orange    mt-3 '> </p>
           </div>
 
-          <div className='flex items-center justify-between p-3'>
+          <div className='flex items-center justify-between p-2'>
             <p className='font-bold flex items-center gap-2'>
             <TbPhotoSquareRounded className='w-[18px] h-[18px] ' />
               Shared Media</p>
@@ -52,7 +52,7 @@ const Sharedfiles = () => {
               <img className='w-[100px] rounded-2xl h-[100px] ' src={build4} alt='build4' />
           </div>
           </div>
-          <div className=' flex flex-col mt-6'>
+          <div className=' flex flex-col mt-6 ml-4'>
             <p className='font-bold flex items-center gap-3'> <TbClipboardText/> Shared Files
             </p>
 
